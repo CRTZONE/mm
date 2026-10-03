@@ -1,0 +1,6 @@
+{
+  "name": "Email On Deck",
+  "description": "Temporary disposable email client that opens EmailOnDeck with captcha verification and quick email access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
